@@ -21,4 +21,5 @@ and this is how u need to paste on the file
 3. After all this steps, u can run the code and the console will show up with the answers. U can check also the sudoku.out file for the solution
 
 ![sudoku.out](https://github.com/Leonard1403/Personal-Projects/blob/main/Sudoku%20Solver/images/out.png)
+
 ![sudoku.out_console](https://github.com/Leonard1403/Personal-Projects/blob/main/Sudoku%20Solver/images/solution.png)
