@@ -16,6 +16,8 @@ Now, for commands, i will leave u some screenshots from the use.
 
 ![console](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/console.png)
 
+Please don't forget to paste the tokenn in this part:
+![token](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/token.png)
 # Tutorial:
 
 1. Use comand ?join for joinging the channel
