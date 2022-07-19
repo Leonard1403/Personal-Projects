@@ -4,11 +4,11 @@ You need to create a discord bot from Discord Developer
 
 Be sure that u give the permission for your bot to have control from comands.
 
-For codes u can use replit.com website for a good python compiler that 
+1. For codes u can use replit.com website for a good python compiler that 
 automaticaly install all packages u need for use.
 ![replit](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/replit.png)
 
-Now, for commands, i will leave u some screenshots from the use.
+2. Now, for commands, i will leave u some screenshots from the use.
 
 ![discord_join](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/discord_join.png)
 
@@ -16,7 +16,7 @@ Now, for commands, i will leave u some screenshots from the use.
 
 ![console](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/console.png)
 
-Please don't forget to paste the tokenn in this part:
+3. Please don't forget to paste the tokenn in this part:
 ![token](https://github.com/Leonard1403/Personal-Projects/blob/main/Python%20Bot%20Music/images/token.png)
 # Tutorial:
 
